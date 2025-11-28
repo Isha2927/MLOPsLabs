@@ -1,0 +1,89 @@
+{
+  "diet_data": {
+    "north_india": {
+      "winter": {
+        "breakfast": "Stuffed aloo paratha with curd and a glass of warm turmeric milk.",
+        "lunch": "Dal makhani, tandoori roti, seasonal saag (mustard leaves), and salad.",
+        "dinner": "Vegetable khichdi with ghee, carrot-beet salad, and warm soup."
+      },
+      "summer": {
+        "breakfast": "Poha with peanuts, curd or chaas (buttermilk), and seasonal fruits like watermelon.",
+        "lunch": "Plain rice, thin dal, lauki ki sabzi, cucumber salad, and chaas.",
+        "dinner": "Phulka with light paneer bhurji, mixed veg sabzi, and salad."
+      },
+      "rainy": {
+        "breakfast": "Upma with vegetables and ginger tea, or besan chilla with mint chutney.",
+        "lunch": "Jeera rice, rajma or chole (less oily), and cooked vegetable salad.",
+        "dinner": "Moong dal khichdi, lightly sautéed bhindi, and warm herbal tea."
+      }
+    },
+    "south_india": {
+      "winter": {
+        "breakfast": "Idli with sambar and coconut chutney, plus a glass of warm filter coffee.",
+        "lunch": "Steamed rice, sambar, poriyal (stir-fried veggies), rasam, and curd.",
+        "dinner": "Ragi dosa with coconut chutney and vegetable kurma."
+      },
+      "summer": {
+        "breakfast": "Dosa with light sambar, fresh fruits like muskmelon, and buttermilk.",
+        "lunch": "Curd rice with grated cucumber and carrot, lemon pickle, and papad.",
+        "dinner": "Vegetable upma with lots of veggies and a glass of tender coconut water."
+      },
+      "rainy": {
+        "breakfast": "Medu vada with sambar (not too oily) and ginger tea.",
+        "lunch": "Lemon rice with peanuts, curd, and a small portion of sambar.",
+        "dinner": "Hot rasam rice, beans poriyal, and a small bowl of curd."
+      }
+    },
+    "west_india": {
+      "winter": {
+        "breakfast": "Thepla with curd and methi sabzi, plus warm masala tea.",
+        "lunch": "Bajra roti, baingan bharta, dal, and jaggery with ghee.",
+        "dinner": "Khichdi, kadhi, and lightly cooked seasonal vegetables."
+      },
+      "summer": {
+        "breakfast": "Dhokla with green chutney and chaas.",
+        "lunch": "Phulka, light aloo-tamatar sabzi, dal, cucumber-onion salad, and chaas.",
+        "dinner": "Vegetable pulav with raita and a small bowl of fruit salad."
+      },
+      "rainy": {
+        "breakfast": "Poha with peanuts and steamed corn, plus ginger-lemon tea.",
+        "lunch": "Jeera rice, gujarati dal, bhindi sabzi, and salad.",
+        "dinner": "Jowar roti, mixed veg sabzi, and a bowl of warm soup."
+      }
+    },
+    "east_india": {
+      "winter": {
+        "breakfast": "Chura with warm milk and jaggery, or stuffed paratha with curd.",
+        "lunch": "Rice, dal, aloo-gobi sabzi, saag, and a bit of pickle.",
+        "dinner": "Fish curry (or light veg curry), rice, and mixed veg bhaji."
+      },
+      "summer": {
+        "breakfast": "Flattened rice (chura) with curd and banana, or light upma.",
+        "lunch": "Rice, light masoor dal, lauki or parwal sabzi, and cucumber salad.",
+        "dinner": "Roti with simple veg curry and a glass of chaas or lemon water."
+      },
+      "rainy": {
+        "breakfast": "Suji halwa (less ghee) with nuts and ginger tea.",
+        "lunch": "Khichdi with veggies, papad, and a bit of pickle.",
+        "dinner": "Roti with mixed veg curry and a bowl of warm soup."
+      }
+    },
+    "central_india": {
+      "winter": {
+        "breakfast": "Stuffed methi paratha with curd and a glass of warm milk.",
+        "lunch": "Jowar/Bajra roti, dal, seasonal leafy sabzi, and salad.",
+        "dinner": "Rice, vegetable stew, and lightly spiced sabzi."
+      },
+      "summer": {
+        "breakfast": "Poha with peanuts and lemon, plus buttermilk.",
+        "lunch": "Rice, thin dal, pumpkin or tinda sabzi, and cucumber salad.",
+        "dinner": "Chapati with light paneer sabzi and a bowl of curd."
+      },
+      "rainy": {
+        "breakfast": "Idli or poha with ginger tea.",
+        "lunch": "Khichdi with vegetables, papad, and curd.",
+        "dinner": "Phulka with lauki sabzi and warm herbal tea."
+      }
+    }
+  }
+}
